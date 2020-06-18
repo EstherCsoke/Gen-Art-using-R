@@ -17,7 +17,7 @@ All the following images were programmed using R. I am still a notice at creatin
  <br>
   <img  src="img/6.jpg" width="450" >
   <br>
-  <img  src="img/7.jpg" width="450">
+
   <br>
    <img  src="img/2.jpg" width="550" >
    <br>
@@ -25,7 +25,7 @@ All the following images were programmed using R. I am still a notice at creatin
     <br>
      <img  src="img/1.jpg" width="550">
      <br>
-       <img  src="img/10.jpeg" width="850">
+
   <br>
   </p>
 
