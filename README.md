@@ -5,25 +5,27 @@
 
 
 <p align="center">
-  <img  src="img/9.jpg">
+All the following images were programmed using R. I am still a notice at creating these but I am happy with my progress! 
+<br>
+  <img  src="img/9.jpg" width="300px">
   <br>
- In my spare time I like to play around with Rstudio data visualisation. All the following images were made purely by code and haven't been altered at all.
+
 </p>
 
 <p align="center">
- <img  src="img/8.jpg" width="200" >
+ <img  src="img/8.jpg" width="450" >
  <br>
   <img  src="img/6.jpg" width="450" >
   <br>
   <img  src="img/7.jpg" width="450">
   <br>
-   <img  src="img/2.jpg" width="450" >
+   <img  src="img/2.jpg" width="550" >
    <br>
-    <img  src="img/3.jpg" width="450">
+    <img  src="img/3.jpg" width="550">
     <br>
-     <img  src="img/1.jpg" width="450">
+     <img  src="img/1.jpg" width="550">
      <br>
-       <img  src="img/10.jpeg" width="450">
+       <img  src="img/10.jpeg" width="850">
   <br>
   </p>
 
