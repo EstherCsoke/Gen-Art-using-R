@@ -19,6 +19,7 @@
      <img  src="img/1.jpg" width="350">
        <img  src="img/10.jpeg" width="350">
   <br>
+  </p>
 
 
 #### Packages used:
