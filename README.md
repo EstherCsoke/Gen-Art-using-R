@@ -5,7 +5,7 @@
 
 
 <p align="center">
-All the following images were programmed using R. I am still a notice at creating these but I am happy with my progress! 
+All the following images were programmed using R. I am still a novice at creating these but I am happy with my progress! 
 <br>
   <img  src="img/9.jpg" width="300px">
   <br>
@@ -30,6 +30,3 @@ All the following images were programmed using R. I am still a notice at creatin
   </p>
 
 
-#### Packages used:
-- 
-- 
